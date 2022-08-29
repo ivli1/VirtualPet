@@ -124,7 +124,7 @@ arc(175,210,60,70,0,PI,OPEN);
 arc(325,210,60,70,0,PI,OPEN);
 noStroke();
 
-//mouf
+//mouth
 stroke(#bd507e);
 fill(#e36d90);
 ellipse(250,315,40,50);
@@ -138,7 +138,7 @@ fill(#d0fc8c);
 ellipse(250,80,60,60);
 fill(#cccccc);
 ellipse(250,80,30,30);
-triangle(220,80,230,140,250,80);
+triangle(210,80,230,140,250,80);
 fill(#d0fc8c);
 rect(240,95,20,30);
 
